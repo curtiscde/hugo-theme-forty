@@ -1,0 +1,25 @@
+{
+  "name": "hugo-theme-forty",
+  "version": "0.0.1",
+  "description": "Hugo Forty Theme (based on HTML5 UP)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curttimson/hugo-theme-forty.git"
+  },
+  "keywords": [
+    "hugo",
+    "hugo-theme",
+    "static-site-generator",
+    "forty"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curttimson/hugo-theme-forty/issues"
+  },
+  "homepage": "https://github.com/curttimson/hugo-theme-forty#readme"
+}
