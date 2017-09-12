@@ -2,3 +2,11 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 baseURL = "http://example.org/"
 theme = "../.."
+
+[params]
+    title = "Forty by HTML5 UP"
+    major = "Hi, my name is Forty"
+
+    [params.author]
+      firstname = "Forty"
+      lastname = "by HTML5 UP"
