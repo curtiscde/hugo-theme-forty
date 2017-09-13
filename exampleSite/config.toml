@@ -8,6 +8,7 @@ theme = "../.."
     major = "Hi, my name is Forty"
     subtitle = "A responsive site template designed by HTML5 UP"
     subtitleline2 = "and released under the Creative Commons."
+    bannerCTA = "Get Started"
 
     [params.author]
       firstname = "Forty"
