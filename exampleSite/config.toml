@@ -13,3 +13,10 @@ theme = "../.."
     [params.author]
       firstname = "Forty"
       lastname = "by HTML5 UP"
+
+    [params.social]
+      twitter = "twitter"
+      facebook = "facebook"
+      instagram = "instagram"
+      github = "github"
+      linkedin = "linkedin"
