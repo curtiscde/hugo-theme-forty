@@ -2,7 +2,7 @@
 
 Hugo Forty Theme is a portfolio theme based off of the original [Forty Theme](https://html5up.net/forty) by [HTML5 Up](https://html5up.net/) ported for [Hugo](https://gohugo.io/), the static site generator.
 
-![](https://raw.githubusercontent.com/curttimson/hugo-theme-forty/master/static/images/forty.jpg)
+![Forty](https://raw.githubusercontent.com/curttimson/hugo-theme-forty/master/static/images/forty.jpg)
 
 ## Development
 
