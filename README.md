@@ -8,22 +8,30 @@ Hugo Forty Theme is a portfolio theme based off of the original [Forty Theme](ht
 
 https://curttimson.github.io/hugo-theme-forty/
 
+## Getting Started
+
+Use the `exampleSite` folder within this theme to see an example of how to install and use this theme.
+
+The `config.toml` provides all the available options for configuring the theme.
+
 ## Development
 
 ```
-npm install
-gulp
+$ npm install
+$ gulp
 ```
 
 There is an example site which can be used to test development:
 
 ```
-cd exampleSite
-hugo server
+$ cd exampleSite
+$ hugo server
 ```
 
-## Credits
+## License
 
-Original [Forty Theme](https://html5up.net/forty) by [HTML5 UP](https://html5up.net/)
+This template is licensed under the [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/).
 
-The template is licensed under the [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/).
+## Acknowledgements
+
+Original [Forty Theme](https://html5up.net/forty) by [HTML5 UP](https://html5up.net/).
