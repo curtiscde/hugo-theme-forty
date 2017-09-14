@@ -21,3 +21,9 @@ There is an example site which can be used to test development:
 cd exampleSite
 hugo server
 ```
+
+## Credits
+
+Original [Forty Theme](https://html5up.net/forty) by [HTML5 UP](https://html5up.net/)
+
+The template is licensed under the [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/).
