@@ -4,6 +4,10 @@ Hugo Forty Theme is a portfolio theme based off of the original [Forty Theme](ht
 
 ![Forty](https://raw.githubusercontent.com/curttimson/hugo-theme-forty/master/static/images/forty.jpg)
 
+## Demo
+
+https://curttimson.github.io/hugo-theme-forty/
+
 ## Development
 
 ```
