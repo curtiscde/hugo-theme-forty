@@ -28,9 +28,7 @@ $ cd exampleSite
 $ hugo server
 ```
 
---------
-
-## License
+## License
 
 This template is licensed under the [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/).
 
