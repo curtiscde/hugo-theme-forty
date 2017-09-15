@@ -1,0 +1,14 @@
+<!-- Two -->
+{{ if .Site.Params.textsection }}
+<section id="two">
+  <div class="inner">
+    <header class="major">
+      <h2>{{ .Site.Params.textsection.title }}</h2>
+    </header>
+    <p>{{ .Site.Params.textsection.description }}</p>
+    <ul class="actions">
+      <li><a href="{{ .Site.Params.textsection.linkurl }}" class="button next">{{ .Site.Params.textsection.linktext }}</a></li>
+    </ul>
+  </div>
+</section>
+{{ end }}
