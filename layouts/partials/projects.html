@@ -3,7 +3,7 @@
     {{ range .Site.Data.projects }}
     <article>
       <span class="image">
-        <img src="images/pic01.jpg" alt="" />
+        <img src="{{ .image }}" alt="" />
       </span>
       <header class="major">
         <h3><a href="{{ .slug }}" class="link">{{ .title }}</a></h3>
