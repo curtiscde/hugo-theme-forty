@@ -1,5 +1,16 @@
 <!-- One -->
   <section id="one" class="tiles">
+    {{ range .Site.Data.projects }}
+    <article>
+      <span class="image">
+        <img src="images/pic01.jpg" alt="" />
+      </span>
+      <header class="major">
+        <h3><a href="{{ .slug }}" class="link">{{ .title }}</a></h3>
+        <p>{{ .description }}</p>
+      </header>
+    </article>
+    {{ end }}
     <article>
       <span class="image">
         <img src="images/pic01.jpg" alt="" />
