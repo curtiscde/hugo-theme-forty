@@ -6,7 +6,7 @@
         <img src="{{ .image }}" alt="" />
       </span>
       <header class="major">
-        <h3><a href="{{ .slug }}" class="link">{{ .title }}</a></h3>
+        <h3><a href="{{ .Site.BaseURL }}tags/{{ .slug }}" class="link">{{ .title }}</a></h3>
         <p>{{ .description }}</p>
       </header>
     </article>
