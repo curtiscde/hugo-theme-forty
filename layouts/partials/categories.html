@@ -1,0 +1,14 @@
+<!-- One -->
+  <section id="one" class="tiles">
+    {{ range where .Site.Pages "Section" "categories" }}
+    <article>
+      <span class="image">
+        <img src="{{ .Params.image }}" alt="" />
+      </span>
+      <header class="major">
+        <h3><a href="{{ .Site.BaseURL }}category/{{ .Params.slug }}" class="link">{{ .Params.title }}</a></h3>
+        <p>{{ .Params.description }}</p>
+      </header>
+    </article>
+    {{ end }}
+  </section>

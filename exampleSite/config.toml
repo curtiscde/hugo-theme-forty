@@ -28,3 +28,7 @@ theme = "../.."
       instagram = "instagram"
       github = "github"
       linkedin = "linkedin"
+
+
+[taxonomies]
+  category = "categories"
