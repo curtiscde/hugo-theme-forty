@@ -2,5 +2,6 @@
 title: Category F
 description: Lorem Ipsum
 slug: category-f
-image: images/pic06.jpg
+listimage: images/category-f.jpg
+coverimage: images/category-f.jpg
 ---

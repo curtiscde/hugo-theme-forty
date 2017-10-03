@@ -2,5 +2,6 @@
 title: Category B
 description: Lorem Ipsum
 slug: category-b
-image: images/pic02.jpg
+listimage: images/category-b.jpg
+coverimage: images/category-b.jpg
 ---

@@ -2,5 +2,6 @@
 title: Category E
 description: Lorem Ipsum
 slug: category-e
-image: images/pic05.jpg
+listimage: images/category-e.jpg
+coverimage: images/category-e.jpg
 ---
