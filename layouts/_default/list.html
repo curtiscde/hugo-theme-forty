@@ -20,13 +20,13 @@
 					<section id="banner" class="style2">
 						<div class="inner">
 							<span class="image">
-								<img src="images/pic07.jpg" alt="" />
+								<img src="{{ .Params.Image }}" alt="" />
 							</span>
 							<header class="major">
-								<h1>{{ .Title }}</h1>
+								<h1>{{ .Params.Title }}</h1>
 							</header>
 							<div class="content">
-								<p>{{ .Description }}</p>
+								<p>{{ .Params.Description }}</p>
 							</div>
 						</div>
 					</section>
@@ -38,9 +38,9 @@
 							<section id="one">
 								<div class="inner">
 									<header class="major">
-										<h2>Sed amet aliquam</h2>
+										<h2>{{ .Params.Subtitle }}</h2>
 									</header>
-									<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+									{{ .Content }}
 								</div>
 							</section>
 
