@@ -46,7 +46,7 @@
 
 						<!-- Two -->
 							<section id="two" class="spotlights">
-								{{ range .Site.Pages }}
+								{{ range where .Site.Pages ".Params.type" "==" "post" }}
 								<section>
 									<a href="generic.html" class="image">
 										<img src="images/pic08.jpg" alt="" data-position="center center" />

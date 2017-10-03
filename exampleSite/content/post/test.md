@@ -1,6 +1,7 @@
 +++
+type = "post"
 title = "foo"
-categories = ['category-a']
+categories = ['categorya', 'categoryb']
 slug = "foo"
 +++
 
