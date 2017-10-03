@@ -2,5 +2,6 @@
 title: Category D
 description: Lorem Ipsum
 slug: category-d
-listimage: images/pic04.jpg
+listimage: images/category-d.jpg
+coverimage: images/category-d.jpg
 ---

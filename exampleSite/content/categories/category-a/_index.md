@@ -2,7 +2,8 @@
  title: Category A
  description: Lorem Ipsum
  slug: category-a
- listimage: images/pic01.jpg
+ listimage: images/category-a.jpg
+ coverimage: images/category-a.jpg
  subtitle: Sub title for Category A
 ---
 
