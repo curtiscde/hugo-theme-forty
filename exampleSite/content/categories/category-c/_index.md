@@ -2,5 +2,5 @@
 title: Category C
 description: Lorem Ipsum
 slug: category-c
-image: images/pic03.jpg
+listimage: images/pic03.jpg
 ---

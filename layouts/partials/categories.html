@@ -3,7 +3,7 @@
     {{ range where .Site.Pages "Section" "categories" }}
     <article>
       <span class="image">
-        <img src="{{ .Params.image }}" alt="" />
+        <img src="{{ .Params.listimage }}" alt="" />
       </span>
       <header class="major">
         <h3><a href="{{ .Site.BaseURL }}categories/{{ .Params.slug }}" class="link">{{ .Params.title }}</a></h3>
