@@ -1,10 +1,10 @@
 +++
 type = "post"
-title = "Post 1"
+title = "Post 3"
 categories = ['categorya', 'categoryb']
-slug = "post-1"
+slug = "post-3"
 shortdescription = "This is a short description"
-image = "images/post-01.jpg"
+image = "images/post-03.jpg"
 +++
 
 Testing
