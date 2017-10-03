@@ -1,4 +1,6 @@
-title: Project D
+---
+title: Category D
 description: Lorem Ipsum
-slug: project-d
+slug: category-d
 image: images/pic04.jpg
+---

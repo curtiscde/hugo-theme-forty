@@ -1,4 +1,6 @@
-title: Project F
+---
+title: Category F
 description: Lorem Ipsum
-slug: project-f
+slug: category-f
 image: images/pic06.jpg
+---

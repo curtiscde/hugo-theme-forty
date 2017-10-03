@@ -1,6 +1,6 @@
 +++
-tags = ["project-a"]
 title = "foo"
+categories = ['category-a']
 +++
 
 Testing
