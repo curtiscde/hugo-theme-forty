@@ -1,0 +1,20 @@
+<section id="two" class="spotlights">
+  {{ range .Site.Pages }}
+  <section>
+    <a href="{{ .Site.BaseURL }}post/{{ .Params.slug }}" class="image">
+      <img src="{{ .Site.BaseURL }}{{ .Params.image }}" alt="" data-position="center center" />
+    </a>
+    <div class="content">
+      <div class="inner">
+        <header class="major">
+          <h3>{{ .Title }}</h3>
+        </header>
+        <p>{{ .Params.shortdescription }}</p>
+        <ul class="actions">
+          <li><a href="{{ .Site.BaseURL }}post/{{ .Params.slug }}" class="button">Learn more</a></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+  {{ end }}
+</section>
