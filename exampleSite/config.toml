@@ -22,6 +22,9 @@ theme = "../.."
   linkurl = "http://www.google.com"
   linktext = "Get Started"
 
+[params.contact]
+  formposturl = ""
+
 
 [params.social]
   twitter = "twitter"
