@@ -1,4 +1,5 @@
 ---
+id: categoryb
 title: Category B
 description: Lorem Ipsum
 slug: category-b

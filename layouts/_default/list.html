@@ -44,9 +44,11 @@
 								</div>
 							</section>
 
+
+
 						<!-- Two -->
 							<section id="two" class="spotlights">
-								{{ range where .Site.Pages ".Params.type" "==" "post" }}
+								{{ range .Site.Pages }}
 								<section>
 									<a href="{{ .Site.BaseURL }}post/{{ .Params.slug }}" class="image">
 										<img src="{{ .Site.BaseURL }}{{ .Params.image }}" alt="" data-position="center center" />
