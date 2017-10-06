@@ -1,6 +1,6 @@
 ---
  title: Category A
- description: Lorem Ipsum
+ description: Lorem Ipsum Dolor
  slug: category-a
  listimage: images/category-a.jpg
  coverimage: images/category-a.jpg
