@@ -6,6 +6,7 @@ theme = "../.."
 [params]
     title = "Forty by HTML5 UP"
     major = "Hi, my name is Forty"
+    coverimageurl = "images/cover.jpg"
     subtitle = "A responsive site template designed by HTML5 UP"
     subtitleline2 = "and released under the Creative Commons."
     bannerCTA = "Get Started"
