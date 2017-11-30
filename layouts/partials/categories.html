@@ -1,6 +1,6 @@
 <!-- One -->
   <section id="one" class="tiles">
-    {{ range where .Site.Pages "Section" "categories" }}
+    {{ range (where (.Site.Pages.ByParam "order") "Section" "categories") }}
     <article>
       <span class="image">
         <img src="{{ .Params.listimage }}" alt="" />
